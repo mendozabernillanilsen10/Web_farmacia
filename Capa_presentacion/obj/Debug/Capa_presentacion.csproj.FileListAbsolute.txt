@@ -1,0 +1,161 @@
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\Capa_presentacion.dll.config
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\Capa_presentacion.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\Capa_presentacion.pdb
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\csc.exe
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\csc.exe.config
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\csc.rsp
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\csi.exe
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\csi.exe.config
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\csi.rsp
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Console.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\vbc.exe
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\vbc.exe.config
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\vbc.rsp
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CopyComplete
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\obj\Debug\Capa_presentacion.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Web_farmacia\Capa_presentacion\obj\Debug\Capa_presentacion.pdb
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Capa_presentacion.dll.config
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Capa_presentacion.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Capa_presentacion.pdb
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\csc.exe
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\csc.exe.config
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\csc.rsp
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\csi.exe
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\csi.exe.config
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\csi.rsp
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Console.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\vbc.exe
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\vbc.exe.config
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\vbc.rsp
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Capa_datos.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\capa_Entidad.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Capa_Negocio.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Newtonsoft.Json.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Buffers.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Memory.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Net.Http.Formatting.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Numerics.Vectors.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Text.Encodings.Web.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Text.Json.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.ValueTuple.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Web.Http.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Web.Http.WebHost.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Capa_datos.pdb
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\capa_Entidad.pdb
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Capa_Negocio.pdb
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\Newtonsoft.Json.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Buffers.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Memory.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Net.Http.Formatting.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Numerics.Vectors.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Text.Encodings.Web.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Text.Json.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.ValueTuple.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Web.Http.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\System.Web.Http.WebHost.xml
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CopyComplete
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\obj\Debug\Capa_presentacion.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_presentacion\obj\Debug\Capa_presentacion.pdb

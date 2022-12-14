@@ -1,0 +1,6 @@
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\capa_Entidad\bin\Debug\capa_Entidad.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\capa_Entidad\bin\Debug\capa_Entidad.pdb
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\capa_Entidad\obj\Debug\capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\capa_Entidad\obj\Debug\capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\capa_Entidad\obj\Debug\capa_Entidad.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\capa_Entidad\obj\Debug\capa_Entidad.pdb

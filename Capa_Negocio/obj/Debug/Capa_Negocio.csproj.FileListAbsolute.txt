@@ -1,0 +1,11 @@
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_Negocio\bin\Debug\Capa_datos.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_Negocio\bin\Debug\capa_Entidad.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_Negocio\bin\Debug\Capa_datos.pdb
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_Negocio\bin\Debug\capa_Entidad.pdb
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\smith\Documents\APPFARMACIA\web\Nueva carpeta\Web_farmacia\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
